@@ -9,6 +9,8 @@ arbol1.insertar(15)
 arbol1.insertar(6)
 arbol1.insertar(80)
 
+arbol1.insertar(199);
+
 arbol1.recorridoNiveles()
 
 
