@@ -41,3 +41,7 @@ class NodoBinario:
         return self.__hijoDerecho==None and self.__hijoIzquierdo == None;   
 
 
+
+
+    def prueba():
+        return 0;
